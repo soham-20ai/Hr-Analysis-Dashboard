@@ -86,4 +86,4 @@ Management can use insights from the dashboard to improve employee engagement an
 
 7. 📸 Dashboard Preview
 
-(https://github.com/soham-20ai/Hr-Analysis-Dashboard/blob/main/HR%20ANALYSIS.png)
+![HR Dashboard](./HR%20ANALYSIS.png)
